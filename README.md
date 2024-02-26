@@ -1,2 +1,1 @@
 # osoc_season1_Adilkhan_Urazalin
-dfvdfv
