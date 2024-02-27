@@ -10,3 +10,11 @@ Level 0-1
 
 Level 1-2
 ![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/847d7971-9743-48a8-842e-4147b36e21c1)
+
+Level 2-3
+
+Level 3-4
+
+Level 4-5
+
+Level 5-6
