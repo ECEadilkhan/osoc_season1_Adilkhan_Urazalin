@@ -20,3 +20,12 @@ Level 4-5
 Level 5-6
 
 - Learning C the hard way:
+Exercise 0-1
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/f62afa74-b8ae-4128-b174-0de973ed9505)
+Exercise 2
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/2cae76a6-e39d-49ef-8718-d08dd890b290)
+Exercies 3
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/42c67b5d-c4fa-46e8-b389-0c732d329cbb)
+
+
+
