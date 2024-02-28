@@ -18,3 +18,5 @@ Level 3-4
 Level 4-5
 
 Level 5-6
+
+- Learning C the hard way:
