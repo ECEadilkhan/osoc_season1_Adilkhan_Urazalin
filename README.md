@@ -33,5 +33,33 @@ Exercise 8
 ![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/668ae334-504e-41cb-bfe8-430b20c05a8c)
 
 Exercise 9
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/e25b6008-54bf-47f3-b355-e36c0b08078f)
+
+Exercise 10
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/67d79563-9397-4d60-864a-9307ee54a82c)
+
+Exercise 11
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/5b1631cb-0726-4eb0-85d8-8451063e270a)
+
+
+Exercise 12
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/406791cb-8a2d-4442-b6cd-9a5b1b96a0e3)
+
+
+Exercise 13
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/593d7553-293c-4b10-8a3b-dcc3230be061)
+
+
+Exercise 14
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/78a5768a-cc6a-4daf-bbd4-89de1e961aa1)
+
+
+Exercise 15
+
+Exercise 16
+
+Exercise 18
+
+
 
 
