@@ -53,8 +53,9 @@ Exercise 13
 Exercise 14
 ![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/78a5768a-cc6a-4daf-bbd4-89de1e961aa1)
 
-
 Exercise 15
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/0bc84a5b-82c7-4b10-bfc6-e2d6490ed9cc)
+
 
 Exercise 16
 
