@@ -91,7 +91,10 @@ Exercise 16
 ![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/565b9b48-6ef0-457e-ad90-459971e9ee78)
 
 
-Exercise 18
+**Level 2: Hardware Design With Logisim Evolution**
+_Lab 1: Introduction to Logisim Evolution_
+
+![image](https://github.com/ECEadilkhan/osoc_season1_Adilkhan_Urazalin/assets/161349218/fbdce5b1-98bb-4460-b8d8-291dd8f0816c)
 
 
 
